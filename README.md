@@ -76,6 +76,8 @@
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hz64&theme=onedark)](http://cc.nndx.ml/)
+
 ![hz64's GitHub stats](https://github-readme-stats.vercel.app/api?username=hz64&show_icons=true&theme=tokyonight)
 
 ```

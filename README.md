@@ -1,4 +1,5 @@
-## Hi there 👋 欢迎来到我的Github主页
+## Hi there 👋 欢迎来到我的Github主页![](https://komarev.com/ghpvc/?username=your-hz64-username)
+
 #### 我现在正在努力学习 (刚刚入门Github)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)

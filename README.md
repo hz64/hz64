@@ -26,6 +26,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=react-dark)](https://github.com/hz64/github-readme-activity-graph)
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hz64&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hz64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

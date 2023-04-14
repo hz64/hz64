@@ -84,4 +84,3 @@
 🌙 Night                  0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 ```
 
-![hz64's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hz64 GitHub ID&layout=compact&hide_border=true&langs_count=10)

@@ -22,7 +22,7 @@
     <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=hz64" alt="访客统计" />
+    <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hz64" /> </div>
   </div>
 
 </div>

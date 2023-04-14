@@ -24,4 +24,4 @@
   </div>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=dracula)](https://github.com/hz64/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=react-dark)](https://github.com/hz64/github-readme-activity-graph)

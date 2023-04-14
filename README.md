@@ -25,7 +25,4 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=hz64" alt="访客统计" />
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/hz64/hz64/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
 </div>

@@ -85,5 +85,9 @@
 🌙 Night                  0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 ```
 
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>

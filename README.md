@@ -68,7 +68,12 @@
   </div>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=react-dark)](https://github.com/hz64/github-readme-activity-graph)
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hz64&show_icons=true&theme=tokyonight)
 
@@ -84,10 +89,3 @@
 🌃 Evening                0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 🌙 Night                  0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 ```
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hz64&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>

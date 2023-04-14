@@ -77,15 +77,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hz64&show_icons=true&theme=tokyonight)
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
 🌞 Morning                0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 🌆 Daytime                0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 🌃 Evening                0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
 🌙 Night                  0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-```

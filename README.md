@@ -58,6 +58,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
+    <a href="http://cc.nndx.ml/"><img src="https://img.shields.io/badge/Homepage-个人主页-yellow" /></a>&emsp;
     <a href="http://hz66.nndx.ml/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;

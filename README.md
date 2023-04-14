@@ -38,3 +38,52 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hz64&show_icons=true&theme=tokyonight)
 
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+  
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌆 Daytime                322 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌃 Evening                465 commits         ██████████░░░░░░░░░░░░░░░   41.85 % 
+🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Tuesday                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Friday                   289 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Saturday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   33 hrs 36 mins      ███████████████░░░░░░░░░░   60.70 % 
+Markdown                 11 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+JavaScript               5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+TypeScript               2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Stylus                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+
+🔥 Editors: 
+VS Code                  55 hrs 19 mins      █████████████████████████   99.90 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+💻 Operating System: 
+Mac                      55 hrs 19 mins      █████████████████████████   99.90 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
+
+
+ Last Updated on 14/04/2023 01:22:00 UTC
+<!--END_SECTION:waka-->
